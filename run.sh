@@ -1,4 +1,3 @@
-#!/usr/bin/env sh
+#!/bin/sh
 
-echo "true"
-
+python3 /test/test.py
